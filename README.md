@@ -1,7 +1,7 @@
 # Physicalactivitymonitoring
+This Jupyter notebook consists of the analysis,hypothesis testing and model building for the set of 9 subjects which includes an adult group of 8 males and 1 female and their corresponding readings taken by wearing three different Inertial Measurements Units and Heart Rate monitor.All the 9 adults were subjected to 18 different physical activities and the readings realated to their hand,chest and ankle were noted down.the information of each adult is then stored in a ".dat" files.
+The process of this data analysis involves an approach is datacleaning followed by hypothesistesting which is then followed by model building.
 
-
-CONTENT
 Initial steps of importing all the required libraries and loading data from the list of files.
 
 Data Cleaning:
